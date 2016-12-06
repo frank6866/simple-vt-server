@@ -16,6 +16,7 @@ def get_connection(host):
     conn_str = "qemu+ssh://%s@%s:%s/system?" \
                "socket=/var/run/libvirt/libvirt-sock"\
                % (settings.COMPUTE_NODE_USER, host, settings.COMPUTE_NODE_PORT)
+    LOG.debug(conn_str)
     conn = libvirt.open(conn_str)
     return conn
 
@@ -25,15 +26,20 @@ def get_dom_list(host):
     conn = get_connection(host)
     hypervisor_name = conn.getHostname()
     LOG.debug(hypervisor_name)
-    domain_names = conn.listAllDomains()
-    LOG.debug(domain_names)
-    for domain_name in domain_names:
-        domain = conn.lookupByName(domain_name)
-        # infos = domain.info()
-        LOG.debug(domain.name())
-        # domains.append(infos)
-    conn.close()
+    # domain_names = conn.listAllDomains()
+    caps = conn.getCapabilities()
+    LOG.debug(caps)
+    # for domain_name in domain_names:
+    #     domain = conn.lookupByName(domain_name)
+    #     # infos = domain.info()
+    #     LOG.debug(domain.name())
+    #     # domains.append(infos)
+    # conn.close()
     return domains
+
+
+
+
 
 if __name__ == '__main__':
     host = '10.12.10.14'

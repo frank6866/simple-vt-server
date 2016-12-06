@@ -1,10 +1,5 @@
-# SQLAlchemy
-# psycopg2
-# Flask-SQLAlchemy
-# flask_sqlalchemy
 flask
 flask_cors
 flask_restful
 requests
-
 libvirt-python
