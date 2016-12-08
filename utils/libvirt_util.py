@@ -22,27 +22,40 @@ def get_connection(host):
 
 
 def get_dom_list(host):
-    domains = []
     conn = get_connection(host)
-    hypervisor_name = conn.getHostname()
-    LOG.debug(hypervisor_name)
-    # domain_names = conn.listAllDomains()
-    caps = conn.getCapabilities()
-    LOG.debug(caps)
-    # for domain_name in domain_names:
-    #     domain = conn.lookupByName(domain_name)
-    #     # infos = domain.info()
-    #     LOG.debug(domain.name())
-    #     # domains.append(infos)
-    # conn.close()
-    return domains
+    ids = conn.listDomainsID()
+    for id in ids:
+        LOG.debug(id)
 
+    inactived_domains = conn.listDefinedDomains()
+    for name in inactived_domains:
+        # LOG.debug(name)
+        pass
 
+    all_domain_objects = conn.listAllDomains(0)
+    for domain in all_domain_objects:
+        id = domain.ID()
+        name = domain.name()
+        uuid_string = domain.UUIDString()
+        os_type = domain.OSType()
+        current_snapshot_exists = domain.hasCurrentSnapshot()
+        managed_save_images_exists = domain.hasManagedSaveImage()
+        # hostname = domain.hostname()
+        state, maxmem, mem, cpus, cputime = domain.info()
+        is_active = domain.isActive()
+        is_persistent = domain.isPersistent()
+        is_updated = domain.isUpdated()
+        max_mem = domain.maxMemory()
+        vcpus_count = domain.maxVcpus()
+        # time = domain.getTime()
+
+        # LOG.debug(time)
+        state, reason = domain.state()
+        LOG.debug("%s, %s" % (state, reason))
 
 
 
 if __name__ == '__main__':
     host = '10.12.10.14'
     get_dom_list(host)
-
 
