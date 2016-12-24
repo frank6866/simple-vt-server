@@ -1,5 +1,13 @@
-flask
-flask_cors
-flask_restful
-requests
+# libvirt
 libvirt-python
+
+eventlet
+greenlet
+
+# restful
+Routes
+WebOb
+PasteDeploy
+Paste
+
+

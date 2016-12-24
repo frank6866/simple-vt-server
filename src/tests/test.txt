@@ -1,0 +1,1434 @@
+{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:50.321871", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:50.311299", 
+        "stderr": "", 
+        "delta": "0:00:00.010572", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:50.561604", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:50.548133", 
+        "stderr": "", 
+        "delta": "0:00:00.013471", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:50.893473", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:50.875584", 
+        "stderr": "", 
+        "delta": "0:00:00.017889", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:51.210648", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:51.195649", 
+        "stderr": "", 
+        "delta": "0:00:00.014999", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:51.510440", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:51.485621", 
+        "stderr": "", 
+        "delta": "0:00:00.024819", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:51.862287", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:51.834748", 
+        "stderr": "", 
+        "delta": "0:00:00.027539", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:52.292611", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:52.267153", 
+        "stderr": "", 
+        "delta": "0:00:00.025458", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:52.562580", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:52.553712", 
+        "stderr": "", 
+        "delta": "0:00:00.008868", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:52.871514", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:52.863120", 
+        "stderr": "", 
+        "delta": "0:00:00.008394", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:53.162372", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:53.147740", 
+        "stderr": "", 
+        "delta": "0:00:00.014632", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:53.440680", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:53.424068", 
+        "stderr": "", 
+        "delta": "0:00:00.016612", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:53.773835", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:53.760680", 
+        "stderr": "", 
+        "delta": "0:00:00.013155", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:54.044642", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:54.029667", 
+        "stderr": "", 
+        "delta": "0:00:00.014975", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:54.338430", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:54.323426", 
+        "stderr": "", 
+        "delta": "0:00:00.015004", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:35:54.611910", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:35:54.596979", 
+        "stderr": "", 
+        "delta": "0:00:00.014931", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "invocation": {
+            "module_name": "debug", 
+            "module_args": {
+                "msg": "__init__.py\nansible_test.py\ntest.txt"
+            }
+        }, 
+        "msg": "__init__.py\nansible_test.py\ntest.txt", 
+        "changed": false, 
+        "_ansible_verbose_always": true, 
+        "_ansible_no_log": false
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:00.618395", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:00.602075", 
+        "stderr": "", 
+        "delta": "0:00:00.016320", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:00.951036", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:00.938443", 
+        "stderr": "", 
+        "delta": "0:00:00.012593", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:01.246311", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:01.229319", 
+        "stderr": "", 
+        "delta": "0:00:00.016992", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:01.526757", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:01.511057", 
+        "stderr": "", 
+        "delta": "0:00:00.015700", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:01.807980", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:01.793032", 
+        "stderr": "", 
+        "delta": "0:00:00.014948", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:02.143878", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:02.132302", 
+        "stderr": "", 
+        "delta": "0:00:00.011576", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:02.436630", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:02.423654", 
+        "stderr": "", 
+        "delta": "0:00:00.012976", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:02.716792", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:02.704033", 
+        "stderr": "", 
+        "delta": "0:00:00.012759", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:03.000277", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:02.983348", 
+        "stderr": "", 
+        "delta": "0:00:00.016929", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:03.301604", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:03.285231", 
+        "stderr": "", 
+        "delta": "0:00:00.016373", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:03.603211", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:03.584113", 
+        "stderr": "", 
+        "delta": "0:00:00.019098", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:03.883762", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:03.868051", 
+        "stderr": "", 
+        "delta": "0:00:00.015711", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:04.220702", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:04.207480", 
+        "stderr": "", 
+        "delta": "0:00:00.013222", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:04.485021", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:04.470407", 
+        "stderr": "", 
+        "delta": "0:00:00.014614", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:04.834851", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:04.817159", 
+        "stderr": "", 
+        "delta": "0:00:00.017692", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "invocation": {
+            "module_name": "debug", 
+            "module_args": {
+                "msg": "__init__.py\nansible_test.py\ntest.txt"
+            }
+        }, 
+        "msg": "__init__.py\nansible_test.py\ntest.txt", 
+        "changed": false, 
+        "_ansible_verbose_always": true, 
+        "_ansible_no_log": false
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:52.657133", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:52.648032", 
+        "stderr": "", 
+        "delta": "0:00:00.009101", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:52.919100", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:52.903431", 
+        "stderr": "", 
+        "delta": "0:00:00.015669", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:53.227319", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:53.210647", 
+        "stderr": "", 
+        "delta": "0:00:00.016672", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:53.534405", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:53.517749", 
+        "stderr": "", 
+        "delta": "0:00:00.016656", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:53.862463", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:53.850574", 
+        "stderr": "", 
+        "delta": "0:00:00.011889", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:54.207152", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:54.192868", 
+        "stderr": "", 
+        "delta": "0:00:00.014284", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:54.592230", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:54.580469", 
+        "stderr": "", 
+        "delta": "0:00:00.011761", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:54.954449", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:54.939491", 
+        "stderr": "", 
+        "delta": "0:00:00.014958", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:55.231436", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:55.216733", 
+        "stderr": "", 
+        "delta": "0:00:00.014703", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:55.531578", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:55.518596", 
+        "stderr": "", 
+        "delta": "0:00:00.012982", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:55.836673", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:55.823963", 
+        "stderr": "", 
+        "delta": "0:00:00.012710", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:56.133704", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:56.120225", 
+        "stderr": "", 
+        "delta": "0:00:00.013479", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:56.445181", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:56.430158", 
+        "stderr": "", 
+        "delta": "0:00:00.015023", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:56.713132", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:56.698970", 
+        "stderr": "", 
+        "delta": "0:00:00.014162", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "_ansible_parsed": true, 
+        "changed": true, 
+        "end": "2016-12-23 16:36:57.039765", 
+        "_ansible_no_log": false, 
+        "stdout": "__init__.py\nansible_test.py\ntest.txt", 
+        "cmd": "ls", 
+        "rc": 0, 
+        "start": "2016-12-23 16:36:57.026640", 
+        "stderr": "", 
+        "delta": "0:00:00.013125", 
+        "invocation": {
+            "module_name": "command", 
+            "module_args": {
+                "warn": true, 
+                "executable": null, 
+                "_uses_shell": true, 
+                "_raw_params": "ls", 
+                "removes": null, 
+                "creates": null, 
+                "chdir": null
+            }
+        }, 
+        "stdout_lines": [
+            "__init__.py", 
+            "ansible_test.py", 
+            "test.txt"
+        ], 
+        "warnings": []
+    }
+}{
+    "localhost": {
+        "invocation": {
+            "module_name": "debug", 
+            "module_args": {
+                "msg": "__init__.py\nansible_test.py\ntest.txt"
+            }
+        }, 
+        "msg": "__init__.py\nansible_test.py\ntest.txt", 
+        "changed": false, 
+        "_ansible_verbose_always": true, 
+        "_ansible_no_log": false
+    }
+}

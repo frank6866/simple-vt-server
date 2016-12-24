@@ -2,3 +2,13 @@
 
 获取磁盘信息,使用ansible进行操作(基于公钥的登录)
 
+
+
+[openstack-tools]
+1.openstack-tools-web-ui
+
+2.openstack-tools-web-controller
+
+3.openstack-tools-server
+
+

@@ -1,0 +1,6 @@
+---
+
+  - hosts: all
+    become: true
+    roles:
+      - frank6866.cobbler

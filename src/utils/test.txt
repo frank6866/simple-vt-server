@@ -1,0 +1,144 @@
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+ok: [10.12.10.57]
+
+PLAY RECAP *********************************************************************
+10.12.10.57                : ok=1    changed=0    unreachable=0    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+ok: [10.12.10.57]
+
+PLAY RECAP *********************************************************************
+10.12.10.57                : ok=1    changed=0    unreachable=0    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+ok: [10.12.10.57]
+
+PLAY RECAP *********************************************************************
+10.12.10.57                : ok=1    changed=0    unreachable=0    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+ok: [10.12.10.57]
+
+PLAY RECAP *********************************************************************
+10.12.10.57                : ok=1    changed=0    unreachable=0    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+ok: [10.12.10.57]
+
+PLAY RECAP *********************************************************************
+10.12.10.57                : ok=1    changed=0    unreachable=0    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+ok: [10.12.10.57]
+
+PLAY RECAP *********************************************************************
+10.12.10.57                : ok=1    changed=0    unreachable=0    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+ok: [10.12.10.57]
+
+PLAY RECAP *********************************************************************
+10.12.10.57                : ok=1    changed=0    unreachable=0    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+ok: [10.12.10.57]
+
+PLAY RECAP *********************************************************************
+10.12.10.57                : ok=1    changed=0    unreachable=0    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+fatal: [localhost]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: ssh: connect to host localhost port 22: Connection refused\r\n", "unreachable": true}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=0    changed=0    unreachable=1    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+fatal: [localhost]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: ssh: connect to host localhost port 22: Connection refused\r\n", "unreachable": true}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=0    changed=0    unreachable=1    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+fatal: [localhost]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: ssh: connect to host localhost port 22: Connection refused\r\n", "unreachable": true}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=0    changed=0    unreachable=1    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+fatal: [localhost]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: ssh: connect to host localhost port 22: Connection refused\r\n", "unreachable": true}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=0    changed=0    unreachable=1    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+fatal: [localhost]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: ssh: connect to host localhost port 22: Connection refused\r\n", "unreachable": true}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=0    changed=0    unreachable=1    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+fatal: [localhost]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: ssh: connect to host localhost port 22: Connection refused\r\n", "unreachable": true}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=0    changed=0    unreachable=1    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+fatal: [localhost]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: ssh: connect to host localhost port 22: Connection refused\r\n", "unreachable": true}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=0    changed=0    unreachable=1    failed=0   
+
+
+PLAY [all] *********************************************************************
+
+TASK [setup] *******************************************************************
+fatal: [localhost]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: ssh: connect to host localhost port 22: Connection refused\r\n", "unreachable": true}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=0    changed=0    unreachable=1    failed=0   
+
